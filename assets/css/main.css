@@ -2218,6 +2218,14 @@ input, select, textarea {
 
 			}
 
+			
+	@media (max-width: 1150px) {
+		img {
+		  display: none;
+		}
+	  }
+
+
 /* List */
 
 	ol {
